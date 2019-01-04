@@ -1,0 +1,41 @@
+/*
+Maura Sanders
+January 4, 2019
+A Mission Trip's Purpose
+*/
+
+/* The universal selector */
+
+*  { margin: 0;
+    padding: 0;
+}
+
+/* Body attributes here */
+
+
+body  {
+    width: 90%;
+    margin: auto;
+background-color: aquamarine;
+
+}
+header{
+    
+    background-color: aquamarine;
+    border-bottom: 3px solid red;
+}
+
+footer{
+    background-color: aquamarine;
+    border-top: 3px solid red;
+    clear: both;
+}
+.imgline{
+    float: left;
+    width: 150px; 
+    height: 100px;
+    border: 2px dashed grey;
+    margin: 10px; 
+}
+
+
